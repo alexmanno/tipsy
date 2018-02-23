@@ -1,0 +1,22 @@
+{
+  "name": "tipsy",
+  "version": "1.0.0",
+  "description": "Fork library for tooltips",
+  "main": "src/javascripts/jquery.tipsy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmanno/tipsy.git"
+  },
+  "author": "Alessandro Manno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmanno/tipsy/issues"
+  },
+  "homepage": "https://github.com/alexmanno/tipsy#readme"
+}
