@@ -1,5 +1,5 @@
 {
-  "name": "tipsy",
+  "name": "alexmanno-tipsy",
   "version": "1.0.0",
   "description": "Fork library for tooltips",
   "main": "src/javascripts/jquery.tipsy.js",
